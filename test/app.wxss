@@ -45,3 +45,40 @@ input{
   font-size: 32rpx;
   color:#bebebe;
 }
+.page-head-line{
+  margin: 0 auto;
+  width: 150rpx;
+  height: 2rpx;
+  background-color: #d8d8d8;
+}
+.page-head-desc{
+  padding-top: 20rpx;
+  color: #9b9b9b;
+  font-size: 32rpx;
+}
+.page-body{
+  width: 100%;
+  flex-grow: 1;
+  overflow-x: hidden;
+
+}
+
+.page-body-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.page-body-wording{
+  text-align: center;
+  padding: 200rpx 100rpx;
+}
+
+.page-body-info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  width: 100%;
+  padding: 50rpx 0 150rpx 0;
+}
