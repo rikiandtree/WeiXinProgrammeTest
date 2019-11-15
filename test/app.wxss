@@ -186,7 +186,7 @@ height: 23rpx;
   transform: translate(-50%,-50%);
 }
 .demo-text-1{
-  position: static;
+  position: relative;
   align-items: center;
   justify-content: center;
   background-color: #1aad19;
