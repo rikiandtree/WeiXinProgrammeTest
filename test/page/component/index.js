@@ -10,7 +10,7 @@ Page({
         id:'view',
         name:'视图容器',
         open:false,
-        pages: ['view','scroll-view']
+        pages: ['view','scroll-view','swiper']
       }
     ]
   },

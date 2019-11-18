@@ -4,7 +4,8 @@
 }
 
 .index-bd{
-  padding: 0 30rpx 40rpx;
+  padding: 10rpx 20rpx 30rpx;
+ background-color: #ffffff;
 }
 
 .index-ft{
@@ -25,11 +26,11 @@
 .navigator-box{
   opacity: 0;
   position: relative;
-  background-color: #ffffff;
+  background-color: #0000ff;
   line-height: 1.41176471;
   font-size:34rpx;
 
-  transform: trasnlateY(-50%);
+  transform: trasnlateY(0);
   transition: .3s;
 
 }
@@ -114,7 +115,7 @@
 }
 
 .kind-list-item-hd-show{
-  opacity: .2;
+  opacity: .3;
 }
 
 .kind-list-item-bd{
