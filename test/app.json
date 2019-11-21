@@ -3,7 +3,8 @@
     "page/component/index",
     "page/component/pages/view/view",
     "page/component/pages/scroll-view/scroll-view",
-    "page/component/pages/swiper/swiper"
+    "page/component/pages/swiper/swiper",
+    "page/component/pages/movable-view/movable-view"
   ],
   "window": {
     "navigationBarBackgroundColor": "#f8f8f8",
