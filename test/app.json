@@ -4,7 +4,8 @@
     "page/component/pages/view/view",
     "page/component/pages/scroll-view/scroll-view",
     "page/component/pages/swiper/swiper",
-    "page/component/pages/movable-view/movable-view"
+    "page/component/pages/movable-view/movable-view",
+    "page/component/pages/cover-view/cover-view"
   ],
   "window": {
     "navigationBarBackgroundColor": "#f8f8f8",
